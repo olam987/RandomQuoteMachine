@@ -14,9 +14,9 @@ A simple quote app.
 
 ## Screenshots
 
-<img src="/screen1.png" alt="Random Quote App"/>
+<img src="/screen1.PNG" alt="Random Quote App"/>
 
-<img src="/screen2.png" alt="Random Quote App"/>
+<img src="/screen2.PNG" alt="Random Quote App"/>
 
 
 ## Resources
